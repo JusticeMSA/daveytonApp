@@ -1,0 +1,12 @@
+{
+  "name": "daveytonApp",
+  "displayName": "daveytonApp",
+  "expo": {
+    "name": "daveytonApp",
+    "slug": "daveytonApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
